@@ -11,7 +11,7 @@ My background is in statistics (BSc and MS, University of Dhaka). I'm interested
 - Design of experiments: effect screening in unreplicated factorial and Plackett–Burman designs
 
 ### 📄 Selected work
-- **Effect screening in unreplicated Plackett–Burman designs.** A simulation study comparing classical screening methods (Lenth, Dong, Box–Meyer, Berk–Picard, and others) and proposing a robust Qn-based pseudo-standard-error test. With Dr. A Z M Shafiullah. *Working paper.* `[repo link]`
+- **Effect screening in unreplicated Plackett–Burman designs.** A simulation study comparing classical screening methods (Lenth, Dong, Box–Meyer, Berk–Picard, and others) and proposing a robust Qn-based pseudo-standard-error test. With Dr. A Z M Shafiullah. *Working paper.* 
 - **Determinants of the slowdown in private sector credit growth: An ARDL approach.** With M. S. Hasan, M. N. A. Sarker, and M. J. Islam. *Accepted for presentation, BIBM 11th Annual Banking Conference, 2026.*
 - **Remuneration of excess bank reserves and central bank losses: Assessing the relevance of the ECB experience for Bangladesh Bank.** With M. N. A. Sarker, M. J. Islam, and R. H. Timur. *Work in progress.*
 - Contributor to Bangladesh Bank's *Monetary Policy Statement* and the monthly *Money Market Dynamics*.
